@@ -347,3 +347,16 @@ html {
 }
 
 /* End of Section 3 */
+
+/* Section 4 */
+
+.section-4 {
+  width: 100%;
+  height: 130vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* End of Section 4 */
