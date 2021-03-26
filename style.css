@@ -359,4 +359,34 @@ html {
   align-items: center;
 }
 
+.form-container {
+  width: 80%;
+  height: 40%;
+  background-color: #e5e9ff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 0.3rem 0.3rem 0.4rem #ccc, -0.1rem -0.1rem 0.4rem #ccc;
+  border-radius: 0.5rem;
+}
+
+.form-img {
+  width: 55rem;
+  background-color: rgba(50, 231, 255, 0.8);
+  padding: 5rem;
+  opacity: 0.8;
+  box-shadow: -3rem 3rem 4rem #aaa;
+  border-radius: 0.5rem;
+}
+
+.contact-form {
+  width: 45rem;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  border-radius: 0.5rem;
+  box-shadow: 3rem 3rem 4rem #aaa;
+}
+
 /* End of Section 4 */
